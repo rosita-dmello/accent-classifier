@@ -1,0 +1,10 @@
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.speak-btn:hover {
+  box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
